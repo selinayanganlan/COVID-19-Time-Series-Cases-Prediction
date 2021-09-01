@@ -1,5 +1,5 @@
 # COVID-19-Time-Series-Cases-Prediction
-Forecasted the daily confirmed cases of COVID-19 of a country given its historical daily confirmed cases by developing 6 predictive models in Python.
+Forecasted the daily confirmed cases of COVID-19 of a country given its historical daily confirmed cases by 6 predictive models.
 
 - Drift
 - Seasonal Naive
